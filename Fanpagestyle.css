@@ -1,0 +1,76 @@
+h1 { 
+	text-align: center; 
+}
+
+    
+       .blue {
+        color: blue;
+    }
+
+    .red {
+        color: red;
+    }
+
+    .green{
+        color: green;
+    }
+    .big{
+    	 font-size: 40px;
+    }
+    .tiny{
+    	 font-size: 6px;
+    }
+    .centered{
+    	text-align: center;
+    }
+    .bold{
+    	font-weight: bold;
+    }
+    .creative{
+    	font-family: Verdana;
+        color: white;
+    }
+    .mix{
+    	color: blue;
+    	 font-size: 50px;
+        font-style: oblique;
+text-align: center;
+    }
+    .styledFont{
+    	font-style: oblique;
+    	color: blue;
+    }
+    .yellow{
+        color: yellow;
+    }
+    .brown{
+        color: brown;
+    }
+    #styledImage{
+    	border: 20px outset pink;
+          display: block;
+    margin: auto;
+    width: 30%;
+    }
+    #styled2ndImage{
+        border: 20px outset grey;
+        display: block;
+        margin: auto;
+        width: 25%
+    }
+    
+
+    
+.body{ 
+background-image: url(http://www.bhmpics.com/thumbs/dark_guitar_strings_player_hand-t3.jpg); 
+}
+.regular{
+    font-size: 20px;
+    font-family: arial;
+}
+.mix2{
+        color: orange;
+         font-size: 20px;
+        font-style: oblique;
+text-align: left;
+    }
